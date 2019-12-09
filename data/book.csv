@@ -1,0 +1,11 @@
+boxOfficeResult.boxofficeType,boxOfficeResult.showRange,boxOfficeResult.dailyBoxOfficeList.rnum,boxOfficeResult.dailyBoxOfficeList.rank,boxOfficeResult.dailyBoxOfficeList.rankInten,boxOfficeResult.dailyBoxOfficeList.rankOldAndNew,boxOfficeResult.dailyBoxOfficeList.movieCd,boxOfficeResult.dailyBoxOfficeList.movieNm,boxOfficeResult.dailyBoxOfficeList.openDt,boxOfficeResult.dailyBoxOfficeList.salesAmt,boxOfficeResult.dailyBoxOfficeList.salesShare,boxOfficeResult.dailyBoxOfficeList.salesInten,boxOfficeResult.dailyBoxOfficeList.salesChange,boxOfficeResult.dailyBoxOfficeList.salesAcc,boxOfficeResult.dailyBoxOfficeList.audiCnt,boxOfficeResult.dailyBoxOfficeList.audiInten,boxOfficeResult.dailyBoxOfficeList.audiChange,boxOfficeResult.dailyBoxOfficeList.audiAcc,boxOfficeResult.dailyBoxOfficeList.scrnCnt,boxOfficeResult.dailyBoxOfficeList.showCnt
+일별 박스오피스,20181010~20181010,1,1,1,OLD,20179189,암수살인,2018-10-03,767029900,39.4,-1775976900,-69.8,19225525094,95021,-190500,-66.7,2194824,1114,5800
+일별 박스오피스,20181010~20181010,2,2,-1,OLD,20177221,베놈,2018-10-03,681495350,35.0,-2047134500,-75,23697161706,83246,-224586,-73,2687623,1092,5870
+일별 박스오피스,20181010~20181010,3,3,0,OLD,20176122,안시성,2018-09-19,141179150,7.2,-407792450,-74.3,45002402826,18852,-46044,-71,5268968,544,1518
+일별 박스오피스,20181010~20181010,4,4,1,OLD,20180523,스타 이즈 본,2018-10-09,123260050,6.3,-191320350,-60.8,459823450,15485,-19642,-55.9,53157,515,1764
+일별 박스오피스,20181010~20181010,5,5,-1,OLD,20189123,곰돌이 푸 다시 만나 행복해,2018-10-03,90474550,4.6,-355449600,-79.7,2752754110,11332,-40732,-78.2,324718,426,1034
+일별 박스오피스,20181010~20181010,6,6,4,OLD,20177308,협상,2018-09-19,22408000,1.2,-23757350,-51.5,16926662716,2944,-2368,-44.6,1948885,217,354
+일별 박스오피스,20181010~20181010,7,7,0,NEW,20187521,펭귄 하이웨이,2018-10-18,13332000,0.7,13332000,100,13332000,1499,1499,100,1499,8,8
+일별 박스오피스,20181010~20181010,8,8,20,OLD,20147727,그랜드 부다페스트 호텔,2014-03-20,14005200,0.7,11810700,538.2,6091593782,1412,1189,533.2,782941,17,17
+일별 박스오피스,20181010~20181010,9,9,0,OLD,20189331,리즈와 파랑새,2018-10-09,10866750,0.6,-44839250,-80.5,74811250,1362,-5291,-79.5,8679,187,317
+일별 박스오피스,20181010~20181010,10,10,0,NEW,20184678,배반의 장미,2018-10-18,9076000,0.5,9076000,100,9076000,1012,1012,100,1012,5,5
